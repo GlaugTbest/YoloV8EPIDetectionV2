@@ -2,6 +2,8 @@
 
 App desktop em Python/Tkinter para rodar o modelo YOLOv8 (`best.pt`) com interface moderna, analise de conformidade de EPI e exportacao de relatorios.
 
+LINK PARA DOWNLOAD DO INSTALADOR(1.7GB) - https://mega.nz/file/K84UHK6R#LIUA7efafdq4N7Wh3QbdhQMU5qOt7GsWdpOp1zmoOPo
+
 ## Requisitos
 
 - Windows 10/11
