@@ -1,0 +1,21 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+installer-output/
+
+# Local caches/logs
+*.log
+
+# YOLO training outputs (keep only model weights needed for app)
+yolo8n_v8/*.png
+yolo8n_v8/*.jpg
+yolo8n_v8/results.csv
+yolo8n_v8/weights/last.pt
